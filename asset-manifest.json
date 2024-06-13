@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/newswave/static/css/main.e6c13ad2.css",
-    "main.js": "/newswave/static/js/main.1351d7bb.js",
-    "static/js/453.08c78f33.chunk.js": "/newswave/static/js/453.08c78f33.chunk.js",
-    "static/media/image.jpg": "/newswave/static/media/image.9d460d060e7825b38c8b.jpg",
-    "index.html": "/newswave/index.html",
-    "main.e6c13ad2.css.map": "/newswave/static/css/main.e6c13ad2.css.map",
-    "main.1351d7bb.js.map": "/newswave/static/js/main.1351d7bb.js.map",
-    "453.08c78f33.chunk.js.map": "/newswave/static/js/453.08c78f33.chunk.js.map"
+    "main.css": "/newswave/build/static/css/main.e6c13ad2.css",
+    "main.js": "/newswave/build/static/js/main.2429f256.js",
+    "static/js/453.08c78f33.chunk.js": "/newswave/build/static/js/453.08c78f33.chunk.js",
+    "static/media/image.jpg": "/newswave/build/static/media/image.9d460d060e7825b38c8b.jpg",
+    "index.html": "/newswave/build/index.html",
+    "main.e6c13ad2.css.map": "/newswave/build/static/css/main.e6c13ad2.css.map",
+    "main.2429f256.js.map": "/newswave/build/static/js/main.2429f256.js.map",
+    "453.08c78f33.chunk.js.map": "/newswave/build/static/js/453.08c78f33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1351d7bb.js"
+    "static/js/main.2429f256.js"
   ]
 }
